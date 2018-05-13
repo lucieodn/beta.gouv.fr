@@ -16,7 +16,7 @@ contact: contact@boussole.beta.gouv.fr
 
 Nous avons accompagné la <abbr title="Direction de la jeunesse, de l’éducation populaire et de la vie associative">DJEPVA</abbr> dans les phases d’investigation et de construction du service « Boussole de droits » entre 2016 et 2017. Nous avons mis fin à cette collaboration en juillet 2017.
 
-La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas exactement ce qu’ils font/ à quoi ils servent, ou comment ils peuvent les aider.
+La phase d’investigation nous a permis de comprendre le problème : les jeunes n’ont pas recours aux services qui existent pour trouver un logement, un emploi ou une formation. Plusieurs services (association, service public…) offrent des solutions, mais les utilisateurs ne savent pas exactement ce qu’ils font / à quoi ils servent, ou comment ils peuvent les aider.
 
 Avec les premiers tests, nous avons découvert que nos utilisateurs étaient prêts à laisser leur coordonnées en contre partie de la garantie d'être rappeler rapidement. Il fallait donc que tous les services disponibles sur notre produit s’engagent à recontacter les jeunes dans un délai maximal de deux semaines.
 
