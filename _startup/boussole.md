@@ -39,7 +39,7 @@ Suite à cette expérience, nous avons notamment appris :
 - que l’autonomie de l’équipe n’était pas négociable ;
 - qu’il est nécessaire que l’intrapreneur soit séléctionné sur la base du volontariat, et non nommé par son administration pour gérer le produit.
 
-Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](boussole.jeunes.gouv.fr). La proposition de valeur est toujours celle au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
+Le service est aujourd'hui disponible sur [boussole.jeunes.gouv.fr](https://boussole.jeunes.gouv.fr/). La proposition de valeur est toujours celle créée au contact de nos utilisateurs, mais l’application a changé, notamment pour être développée dans une technologie que maîtrise notre partenaire.
 
 Le code source que nous publions [ici](https://github.com/betagouv/boussole) correspond à une branche abandonnée, le produit actuellement en service n'est pas à notre connaissance ouvert sous une licence libre.
 
